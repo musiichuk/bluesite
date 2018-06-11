@@ -88,3 +88,71 @@ background-color: $p4;
 .firs_button_line{
   width: 100%;
 }
+
+.main_top_line{
+  //background-color:;
+  background-image: url("../../img/bg.png");
+}
+
+.bg_pic{
+  display: inline-block;
+}
+
+.order_details{
+  label{
+    color: $lignh_font;
+  }
+  color: $lignh_font;
+  vertical-align: middle;
+  text-align: center;
+  height: 137px;
+  background-color: $p1;
+}
+
+.button_continue{
+  margin-top: 18px;
+  background-color: $p1d2;
+}
+
+.text_tab{
+  //column-count: 2;
+  //column-gap: normal;
+}
+
+.printer_text{
+  font-weight: bold;
+  color: $p1d1;
+  position: relative;
+  top: 90px;
+  left: 80px;
+}
+
+.welcome_01{
+  color: $p1l1;
+}
+
+.our_advantages{
+  background-color: $p1;
+}
+
+.h3_AoOWS{
+  color: $lignh_font;
+  text-align: center;
+}
+
+.three_blocks{
+  color: $lignh_font;
+}
+
+.btn1_pao{
+  position: relative;
+  left: 330px;
+  text-align: center;
+  background-color: $p1d2;
+  color: $lignh_font;
+}
+
+.H_I_T_03{
+  color: $p1;
+  text-align: center;
+}
